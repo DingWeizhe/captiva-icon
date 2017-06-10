@@ -1,5 +1,9 @@
+![範例圖片](https://github.com/DingWeizhe/captiva-icon/blob/master/screenshot.png?raw=true)
+
 # 圖示原始來源 
 https://github.com/captiva-project/captiva-icon-theme
+
+
 
 # 使用教學
 1. 安裝 [liteicon](https://freemacsoft.net/liteicon/)
